@@ -1,2 +1,6 @@
-# web--231
-Repo for web-231
+
+# WEB 231 Enterprise JavaScript 1
+
+## Contributors
+- Professor Krasso
+- Danielle Cannon
